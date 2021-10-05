@@ -1,4 +1,12 @@
 # Drawing-web AFA
+## Description 
+-	Design an object-oriented model for geometric shapes.
+-	User could draw, color, resize, move, copy, and delete this shapes.
+-	User has the option to save and load his/her work implemented using the memento design pattern.
+-	All user actions are saved to let him undo and redo them using the Command design pattern.
+-	Other different design patterns are applied such as singleton, Factory, and Prototype.
+-	Utilized: Vue.js, Vuetify, spring boot, JavaScript, and java.
+
 you must read how to run the program which found in the report.
 And to download the package of node.js in the front folder.
 video link of this project :
