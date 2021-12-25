@@ -9,7 +9,7 @@
 
 you must read how to run the program which found in the report.
 And to download the package of node.js in the front folder.
-video link of this project :
+video link of this project:
 https://www.youtube.com/watch?v=oNYu6GFyfF0
 
 ![Screenshot (98)](https://user-images.githubusercontent.com/58639073/128781500-812d58bc-7764-4692-82d9-3ed721a74045.png)
